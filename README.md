@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @merleezy
-- 👀 I’m interested in learning programming, specifically python, c++, web development, and potentially app development too.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m Isaac!
+- 👀 I’m interested in learning programming, specifically C++, C#, web development, software engineering, and app development too.
+- 🌱 I’m currently learning C++ and C#.
 - 💞️ I’m looking to collaborate on projects in the future.
 - 📫 How to reach me: nothing yet.
 
